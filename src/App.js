@@ -13,7 +13,7 @@ function App() {
         <RamadanTable data={NAZAT} header={"NAZAT"} />
       </div>
       <footer className="footer">
-        <i class="fab fa-github"></i>
+        <a href="https://github.com/siddique000/ramadan-calender2021" target='_blank'><i class="fab fa-github"></i></a>
       </footer>
     </>
   );

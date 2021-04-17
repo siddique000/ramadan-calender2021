@@ -1,9 +1,7 @@
-
-
 .App {
   text-align: center;
- margin: 0 auto;
- max-width: 1024px;
+  margin: 0 auto;
+  max-width: 1024px;
 }
 
 .header {
@@ -15,7 +13,7 @@
   text-shadow: 2px 2px 2px #727575;
   width: 100%;
   display: block;
-  min-width: 400px;
+  min-width: 388px;
 }
 
 .footer {
@@ -27,11 +25,11 @@
   text-align: center;
   font-size: 25px;
 }
-.footer i{
-  color:rgb(87, 82, 82);
+.footer i {
+  color: rgb(87, 82, 82);
   margin: 0;
 }
-.footer i:hover{
+.footer i:hover {
   cursor: pointer;
   font-size: 30px;
 }

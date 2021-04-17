@@ -1,9 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { Table } from 'react-bootstrap'
 import TableItems from './TableItems'
 
 
-const RamadanTable = ({ header,data }) => {
+const RamadanTable = ({ header, data }) => {
    return (
       <>
          <div className='header'>{`${header} - 10 DAY`}</div>
